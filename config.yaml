@@ -90,7 +90,7 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: Julia The White
+    title: Tengku Kevin
     # option to specify the subtitle in the homepage
     subtitle: Personal website and blog
     # option to specify image in the homepage
@@ -132,7 +132,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2019
+    copyright: Tengku Kevin Juldianto - 2020
 
 ###################################################################
 ################## multilanguage support options ##################
